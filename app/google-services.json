@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "674714688177",
+    "firebase_url": "https://safeclovafcm.firebaseio.com",
+    "project_id": "safeclovafcm",
+    "storage_bucket": "safeclovafcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674714688177:android:109f6782871b3926",
+        "android_client_info": {
+          "package_name": "com.example.safeclova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674714688177-j2oi2lcf7bg15ekrnevm62t5qqk02520.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.safeclova",
+            "certificate_hash": "e7aee9833092b0ecac51e26d14c31dbae6f523fe"
+          }
+        },
+        {
+          "client_id": "674714688177-2dk270680egvb0k91mf1s87r6p1tdbb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGtRtpH48XF3jW0zD5IU-TCMWq-dwHhOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674714688177-2dk270680egvb0k91mf1s87r6p1tdbb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
